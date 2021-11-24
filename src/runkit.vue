@@ -22,7 +22,7 @@ export default {
 		nodeVersion: {
 			type: String
 		},
-		env: {
+		environment: {
 			type: Array
 		},
 		title: {
